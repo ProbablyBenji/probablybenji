@@ -1,6 +1,6 @@
 ---
 title: "Benji's Top 10 List for 2019"
-date:  2019-12-30 08:00:00 -0800
+date:  2019-12-30 08:00:00-0800
 published: true
 categories: DayInTheLife
 ---

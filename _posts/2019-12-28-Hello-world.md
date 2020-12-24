@@ -1,6 +1,6 @@
 ---
 title:  "Hello World!" 
-date:   2019-12-28 21:00:25 -0800
+date:   2019-12-28 21:00:25-0800
 published: true
 ---
 
